@@ -26,3 +26,6 @@ A list of awesome GitHub Copilot resources I've found useful. If you know of any
 - [@chat participants (VS Code documentation)](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-participants)
 
 ## Blog Posts/Articles
+- [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
+- [4 ways GitHub engineers use GitHub Copilot - The GitHub Blog](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/)
+- [Using GitHub Copilot in your IDE: Tips, tricks, and best practices - The GitHub Blog](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
