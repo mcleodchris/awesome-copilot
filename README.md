@@ -19,6 +19,7 @@ A list of awesome GitHub Copilot resources I've found useful or enlightening. If
 - [Beyond The Editor: Tips to get the most out of Copilot - Visual Studio Code](https://youtu.be/06aAHJoP3hc?si=r8DwxpdCrnjQ2W7e)
 - [GitHub Copilot and AI for Developers: Potential and Pitfalls with Scott Hanselman | BRK231H](https://www.youtube.com/watch?v=5pbPLHYB6-0)
 - [Pragmatic techniques to get the most out of GitHub Copilot | BRK255H](https://www.youtube.com/watch?v=CwAzIpc4AnA)
+- [Generating Synthetic Datasets with GitHub Copilot (youtube.com)](https://www.youtube.com/watch?v=4kwX1CUT43Q)
 
 ## Useful Documentation
 - [Example Prompts (GitHub Copilot documentation)](https://docs.github.com/en/copilot/github-copilot-chat/copilot-chat-in-ides/using-github-copilot-chat-in-your-ide#example-prompts)
