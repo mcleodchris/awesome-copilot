@@ -29,3 +29,7 @@ A list of awesome GitHub Copilot resources I've found useful or enlightening. If
 - [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [4 ways GitHub engineers use GitHub Copilot - The GitHub Blog](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/)
 - [Using GitHub Copilot in your IDE: Tips, tricks, and best practices - The GitHub Blog](https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
+
+## Other Lists
+- [program247365/awesome-github-copilot: A curated list of awesome things regarding Github CoPilot.](https://github.com/program247365/awesome-github-copilot)
+- [NajiElKotob/Awesome-Copilot: Awesome Copilot (github.com)](https://github.com/NajiElKotob/Awesome-Copilot)
