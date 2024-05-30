@@ -1,5 +1,5 @@
 # awesome-copilot
-A list of awesome GitHub Copilot resources I've found useful. If you know of any others,please help expand the list by raising an Issue, or creating a PR.
+A list of awesome GitHub Copilot resources I've found useful or enlightening. If you know of any others, please help expand the list by raising an Issue, or creating a PR.
 
 ## Training
 ### Full Courses
